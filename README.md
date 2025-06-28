@@ -20,6 +20,6 @@ It also shows how to use a `venv` to install python packages
 ```sh
 sudo apt install python3-tk portaudio19-dev
 python3 -m venv .venv
-.venv/bin/pip3 install numpy matplotlib sounddevice soundfile
+.venv/bin/pip3 install numpy matplotlib sounddevice soundfile scipy
 ```
 
